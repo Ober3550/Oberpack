@@ -1,0 +1,188 @@
+{
+  "mods": [
+    {
+      "name": "base",
+      "enabled": true
+    },
+    {
+      "name": "aai-industry",
+      "enabled": true
+    },
+    {
+      "name": "AfraidOfTheDark",
+      "enabled": true
+    },
+    {
+      "name": "angelsaddons-oresilos",
+      "enabled": true
+    },
+    {
+      "name": "angelsaddons-pressuretanks",
+      "enabled": true
+    },
+    {
+      "name": "angelsaddons-warehouses",
+      "enabled": true
+    },
+    {
+      "name": "angelsbioprocessing",
+      "enabled": true
+    },
+    {
+      "name": "angelsinfiniteores",
+      "enabled": true
+    },
+    {
+      "name": "angelspetrochem",
+      "enabled": true
+    },
+    {
+      "name": "angelsrefining",
+      "enabled": true
+    },
+    {
+      "name": "angelssmelting",
+      "enabled": true
+    },
+    {
+      "name": "auto-research",
+      "enabled": true
+    },
+    {
+      "name": "bobassembly",
+      "enabled": true
+    },
+    {
+      "name": "bobelectronics",
+      "enabled": true
+    },
+    {
+      "name": "bobenemies",
+      "enabled": true
+    },
+    {
+      "name": "bobinserters",
+      "enabled": true
+    },
+    {
+      "name": "boblibrary",
+      "enabled": true
+    },
+    {
+      "name": "boblogistics",
+      "enabled": true
+    },
+    {
+      "name": "bobmining",
+      "enabled": true
+    },
+    {
+      "name": "bobmodules",
+      "enabled": true
+    },
+    {
+      "name": "bobores",
+      "enabled": true
+    },
+    {
+      "name": "bobplates",
+      "enabled": true
+    },
+    {
+      "name": "bobpower",
+      "enabled": true
+    },
+    {
+      "name": "bobtech",
+      "enabled": true
+    },
+    {
+      "name": "bobwarfare",
+      "enabled": true
+    },
+    {
+      "name": "Bottleneck",
+      "enabled": true
+    },
+    {
+      "name": "CompactPower",
+      "enabled": true
+    },
+    {
+      "name": "FNEI",
+      "enabled": true
+    },
+    {
+      "name": "helmod",
+      "enabled": true
+    },
+    {
+      "name": "Large-Chests",
+      "enabled": true
+    },
+    {
+      "name": "LogisticTrainNetwork",
+      "enabled": true
+    },
+    {
+      "name": "MakeBarrelsGreatAgain",
+      "enabled": true
+    },
+    {
+      "name": "MaxRateCalculator",
+      "enabled": true
+    },
+    {
+      "name": "miniloader",
+      "enabled": true
+    },
+    {
+      "name": "nicefill",
+      "enabled": true
+    },
+    {
+      "name": "Nuclear Fuel",
+      "enabled": true
+    },
+    {
+      "name": "OmegaDrill",
+      "enabled": true
+    },
+    {
+      "name": "rso-mod",
+      "enabled": true
+    },
+    {
+      "name": "ScienceOberhaul",
+      "enabled": true
+    },
+    {
+      "name": "ShinyAngelGFX",
+      "enabled": true
+    },
+    {
+      "name": "ShinyBobGFX",
+      "enabled": true
+    },
+    {
+      "name": "ShinyIcons",
+      "enabled": true
+    },
+    {
+      "name": "SpaceMod",
+      "enabled": true
+    },
+    {
+      "name": "Squeak Through",
+      "enabled": true
+    },
+    {
+      "name": "Waterfill_v15",
+      "enabled": true
+    },
+    {
+      "name": "wormmus-inf-tech",
+      "enabled": true
+    }
+  ]
+}
