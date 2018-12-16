@@ -161,7 +161,15 @@
       "enabled": true
     },
     {
+      "name": "Obercompactsolar",
+      "enabled": true
+    },
+    {
       "name": "Oberhaul",
+      "enabled": true
+    },
+    {
+      "name": "Oberwarfare",
       "enabled": true
     },
     {
