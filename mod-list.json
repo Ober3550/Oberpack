@@ -157,19 +157,11 @@
       "enabled": true
     },
     {
-      "name": "Oberbelt",
-      "enabled": true
-    },
-    {
-      "name": "Obercompactsolar",
-      "enabled": true
-    },
-    {
       "name": "Oberhaul",
       "enabled": true
     },
     {
-      "name": "Oberwarfare",
+      "name": "OberNuclear",
       "enabled": true
     },
     {
@@ -178,10 +170,6 @@
     },
     {
       "name": "rso-mod",
-      "enabled": true
-    },
-    {
-      "name": "ScienceOberhaul",
       "enabled": true
     },
     {
