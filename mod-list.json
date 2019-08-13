@@ -24,6 +24,11 @@
     },
     
     {
+      "name": "AllaiznsUtil",
+      "enabled": true
+    },
+    
+    {
       "name": "angelsaddons-oresilos",
       "enabled": true
     },
@@ -144,7 +149,12 @@
     },
     
     {
-      "name": "DeadlockLoaders",
+      "name": "creative-mod",
+      "enabled": true
+    },
+    
+    {
+      "name": "Dectorio",
       "enabled": true
     },
     
@@ -180,6 +190,11 @@
     
     {
       "name": "nicefill",
+      "enabled": true
+    },
+    
+    {
+      "name": "Oberbelt",
       "enabled": true
     },
     
@@ -235,11 +250,6 @@
     
     {
       "name": "Squeak Through",
-      "enabled": true
-    },
-    
-    {
-      "name": "wormmus-inf-tech",
       "enabled": true
     }
   ]
