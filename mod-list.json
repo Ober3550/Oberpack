@@ -149,13 +149,8 @@
     },
     
     {
-      "name": "creative-mod",
-      "enabled": true
-    },
-    
-    {
       "name": "Dectorio",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -165,11 +160,6 @@
     
     {
       "name": "helmod",
-      "enabled": true
-    },
-    
-    {
-      "name": "InfTechMultiplier",
       "enabled": true
     },
     
