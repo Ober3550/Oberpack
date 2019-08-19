@@ -49,11 +49,6 @@
     },
     
     {
-      "name": "angelsinfiniteores",
-      "enabled": true
-    },
-    
-    {
       "name": "angelspetrochem",
       "enabled": true
     },
@@ -154,11 +149,6 @@
     },
     
     {
-      "name": "creative-mod",
-      "enabled": true
-    },
-    
-    {
       "name": "FNEI",
       "enabled": true
     },
@@ -169,8 +159,8 @@
     },
     
     {
-      "name": "InfinityMode",
-      "enabled": false
+      "name": "KS_Power",
+      "enabled": true
     },
     
     {
@@ -189,11 +179,6 @@
     },
     
     {
-      "name": "nicefill",
-      "enabled": true
-    },
-    
-    {
       "name": "Oberbelt",
       "enabled": true
     },
@@ -205,7 +190,7 @@
     
     {
       "name": "OberNuclear",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -214,12 +199,7 @@
     },
     
     {
-      "name": "OpteraLib",
-      "enabled": true
-    },
-    
-    {
-      "name": "rso-mod",
+      "name": "SeaBlock",
       "enabled": true
     },
     
@@ -250,11 +230,6 @@
     
     {
       "name": "Squeak Through",
-      "enabled": true
-    },
-    
-    {
-      "name": "stdlib",
       "enabled": true
     }
   ]
