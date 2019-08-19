@@ -164,11 +164,6 @@
     },
     
     {
-      "name": "LogisticTrainNetwork",
-      "enabled": true
-    },
-    
-    {
       "name": "MaxRateCalculator",
       "enabled": true
     },
@@ -185,16 +180,6 @@
     
     {
       "name": "Oberhaul",
-      "enabled": true
-    },
-    
-    {
-      "name": "OberNuclear",
-      "enabled": false
-    },
-    
-    {
-      "name": "OmegaDrill",
       "enabled": true
     },
     
