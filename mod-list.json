@@ -154,11 +154,6 @@
     },
     
     {
-      "name": "creative-mod",
-      "enabled": true
-    },
-    
-    {
       "name": "FNEI",
       "enabled": true
     },
@@ -169,8 +164,13 @@
     },
     
     {
-      "name": "InfinityMode",
-      "enabled": false
+      "name": "InfTechMultiplier",
+      "enabled": true
+    },
+    
+    {
+      "name": "Large-Chests",
+      "enabled": true
     },
     
     {
@@ -185,6 +185,11 @@
     
     {
       "name": "miniloader",
+      "enabled": true
+    },
+    
+    {
+      "name": "ModuleInserter",
       "enabled": true
     },
     
