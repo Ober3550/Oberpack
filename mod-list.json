@@ -209,11 +209,6 @@
     },
     
     {
-      "name": "OberNuclear",
-      "enabled": true
-    },
-    
-    {
       "name": "OmegaDrill",
       "enabled": true
     },
@@ -225,6 +220,11 @@
     
     {
       "name": "rso-mod",
+      "enabled": true
+    },
+    
+    {
+      "name": "seablock-mining",
       "enabled": true
     },
     
